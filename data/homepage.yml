@@ -1,12 +1,14 @@
 ########################## Banner #############################
 banner:
   enable : true
-  writter : "George Stewart"
-  title : "The Man in the <br>Glass House"
+  writer : "Ram Iyer"
+  title : "Unpolarised in 2021"
   image : "images/about/book.png"
   content : "We work with our partners to streamline project plans that don’t just deliver on
             product perfection, but also delivers on time."
-  price : "14.99"
+  price : "69.00"
+  currency : "₹"
+  label: "Buy on Amazon"
 
 ######################## Book Preview ##########################
 preview:
@@ -121,14 +123,21 @@ reviews:
     - name : "Barrow Hasi"
       image : "images/client/test-1.jpg" # image size 80*80 px
       designation : "Sunrise ten"
-      rating : "five" # rating from one to five
+      rating : "three" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
       
     # review item loop
     - name : "Nilam Arthur"
       image : "images/client/test-2.jpg" # image size 80*80 px
       designation : "Sunrise ten"
-      rating : "four" # rating from one to five
+      rating : "two" # rating from one to five
+      content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
+
+    # review item loop
+    - name : "Barrow Hasi"
+      image : "images/client/test-1.jpg" # image size 80*80 px
+      designation : "Sunrise ten"
+      rating : "one" # rating from one to five
       content : "Quas ut distinctio tenetur animi nihil rem, amet dolorum totam. Ab repudiandae tempore qui fugiat amet ipsa id omnis ipsam."
 
 
@@ -249,3 +258,10 @@ contact:
       icon : "ti-location-pin" # themify icon pack : https://themify.me/themify-icons
       list:
         - listItem : "397 Lake forest drive street USA"
+
+################################# Subscribe ##############################
+subscribe:
+  enable: true
+  title: "Subscribe to book updates"
+  url: ""
+  label: ""
