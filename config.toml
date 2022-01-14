@@ -15,8 +15,6 @@ paginate = 6
   [[params.plugins.css]]
   URL = "plugins/slick/slick.css"
   [[params.plugins.css]]
-  URL = "plugins/themify-icons/themify-icons.css"
-  [[params.plugins.css]]
   URL = "plugins/magnific-popup/magnific-popup.css"
   
   # JS Plugins
@@ -98,20 +96,20 @@ content = "Each theme featured at the Bootstrap marketplace has been reviewed by
 ############################# post share ###################
 [[params.share]]
 title = "facebook"
-icon = "ti-facebook" # themify icon : https://themify.me/themify-icons
+icon = "fa-facebook"
 link = "#"
 
 [[params.share]]
 title = "twitter"
-icon = "ti-twitter-alt" # themify icon : https://themify.me/themify-icons
+icon = "fa-twitter"
 link = "#"
 
 [[params.share]]
 title = "linkedin"
-icon = "ti-linkedin" # themify icon : https://themify.me/themify-icons
+icon = "fa-linkedin-in"
 link = "#"
 
 [[params.share]]
-title = "github"
-icon = "ti-github" # themify icon : https://themify.me/themify-icons
+title = "whatsapp"
+icon = "fa-whatsapp"
 link = "#"
