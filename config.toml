@@ -1,7 +1,7 @@
 ######################## default configuration ####################
 baseURL = "https://2021.unpolarised.in/"
 languageCode = "en-in"
-title = "Unpolarised"
+title = "#unpolarised"
 theme = "influencer"
 summaryLength = "10"
 paginate = 6
