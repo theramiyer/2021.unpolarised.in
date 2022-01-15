@@ -37,29 +37,19 @@ paginate = 6
   weight = 1
   
   [[menu.main]]
-  name = "Chapter"
-  URL = "chapter"
+  name = "Chapters"
+  URL = "chapters"
   weight = 2
   
   [[menu.main]]
   name = "Reviews"
-  URL = "review"
+  URL = "reviews"
   weight = 3
   
   [[menu.main]]
   name = "Author"
   URL = "author"
   weight = 4
-  
-  [[menu.main]]
-  name = "Blog"
-  URL = "blog"
-  weight = 5
-  
-  [[menu.main]]
-  name = "Contact"
-  URL = "contact"
-  weight = 6
 
 
 #################### default parameters ################################
@@ -86,11 +76,11 @@ enable = true
 # cookies
 [params.cookies]
 enable = true
-expire_days = 2
+expire_days = 1
   
 ############################# Footer ########################
 [params.footer]
-content = "Each theme featured at the Bootstrap marketplace has been reviewed by Bootstrap's creators.Lorem ipsum dolor sit amet, consectetur adipisicing elit."
+content = "This series is dedicated to understanding what is around us, devoid of bias. One must pick a side after knowing all the aspects of an issue. Read the publications to support the author in his endeavour to shed some light on some of the most pressing issues of the day."
 
 
 ############################# post share ###################
