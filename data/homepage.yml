@@ -167,7 +167,7 @@ devices:
   enable : true
   title : "Read it on your favourite device!"
   content : "This book is optimised for digital platforms. Exclusively available on Kindle for now, it will be released on other platforms as well. Regardless, Kindle is accessible on your favourite device."
-  image : "images/about/ipad.jpg"
+  image : "images/about/ipad.png"
   feature:
     # feature item loop
     - title : "Rich data, plus references"
