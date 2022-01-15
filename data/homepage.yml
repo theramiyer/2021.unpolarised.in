@@ -227,7 +227,7 @@ awards:
 ############################# Other books ###############################
 otherBooks:
   enable : true
-  title : "Others books by the author"
+  title : "Other books by the author"
   subtitle : "From an accidental novelette to a technical book to the _Unpolarised_ series, there is more by Ram Iyer that you can read."
   book:
     # books loop
