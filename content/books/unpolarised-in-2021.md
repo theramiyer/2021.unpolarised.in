@@ -1,4 +1,6 @@
+---
 ########################## Banner #############################
+url: '/2021/'
 banner:
   enable : true
   writer : "Ram Iyer"
@@ -276,10 +278,4 @@ contact:
       icon : "fa-location-dot"
       list:
         - listItem : "397 Lake forest drive street USA"
-
-################################# Subscribe ##############################
-subscribe:
-  enable: true
-  title: "Subscribe to updates on the Unpolarised series"
-  tinyLetterId: ""
-  label: "Subscribe"
+---

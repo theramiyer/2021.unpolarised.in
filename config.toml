@@ -82,6 +82,12 @@ expire_days = 1
 [params.footer]
 content = "This series is dedicated to understanding what is around us, devoid of bias. One must pick a side after knowing all the aspects of an issue. Read the publications to support the author in his endeavour to shed some light on some of the most pressing issues of the day."
 
+############################# TinyLetter ########################
+[params.subscribe]
+enable = true
+title = "Subscribe to updates on the Unpolarised series"
+tinyLetterId = ""
+label = "Subscribe"
 
 ############################# post share ###################
 [[params.share]]
