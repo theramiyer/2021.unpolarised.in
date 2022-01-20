@@ -80,6 +80,7 @@ expire_days = 1
 [params.plausible]
 enable = true
 domain = "unpolarised.in"
+gitstar = false
   
 ############################# Footer ########################
 [params.footer]
