@@ -1,6 +1,8 @@
 ---
 ########################## Banner #############################
 url: '/2021/'
+navButton:
+  enable: true
 banner:
   enable : true
   writer : "Ram Iyer"
