@@ -2,7 +2,6 @@
 baseURL = "https://unpolarised.in/"
 languageCode = "en-in"
 title = "#unpolarised"
-theme = "influencer"
 summaryLength = "10"
 paginate = 6
 
@@ -77,6 +76,10 @@ enable = true
 [params.cookies]
 enable = false
 expire_days = 1
+
+[params.plausible]
+enable = true
+domain = "unpolarised.in"
   
 ############################# Footer ########################
 [params.footer]
@@ -109,3 +112,7 @@ link = "#"
 title = "whatsapp"
 icon = "fa-whatsapp"
 link = "#"
+
+[module]
+[[module.imports]]
+path = "github.com/studiolampblack/influencer"
