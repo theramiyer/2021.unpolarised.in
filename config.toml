@@ -116,3 +116,6 @@ link = "#"
 [module]
 [[module.imports]]
 path = "github.com/studiolampblack/influencer"
+
+[[module.imports]]
+path = "github.com/divinerites/plausible-hugo"
