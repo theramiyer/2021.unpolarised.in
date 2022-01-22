@@ -7,7 +7,6 @@ paginate = 6
 
 [params.banner]
   title = "Unpolarised with Ram Iyer"
-  description = "The _#unpolarised_ series is dedicated to understanding what is around us, devoid of bias. One must pick a side after knowing all the aspects of an issue. Read the publications to support the author in his endeavour to shed some light on some of the most pressing issues of the day. Started in 2019, the series attempts to clear the fog around some of the most talked-about topics in the Indian context."
 
 ############################# Plugins ##############################
 [params.plugins]
@@ -60,7 +59,7 @@ paginate = 6
 logo = ""
 home = "Home"
 # Meta data
-description = "This is meta description"
+  description = "The _#unpolarised_ series is dedicated to understanding what is around us, devoid of bias. One must pick a side after knowing all the aspects of an issue. Read the publications to support the author in his endeavour to shed some light on some of the most pressing issues of the day. Started in 2019, the series attempts to clear the fog around some of the most talked-about topics in the Indian context."
 author = "Ram Iyer"
 # Google Analitycs
 googleAnalitycsID = "" # Your ID
