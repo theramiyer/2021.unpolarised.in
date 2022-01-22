@@ -1,30 +1,30 @@
 ---
 ########################## Banner #############################
-url: '/2021/'
-navButton:
-  enable: true
-banner:
+title : "unpolarised in 2021"
+url : '/2021/'
+description : "Unpolarised through the second wave, fads and narrative battles. With an apolitical view on farming and food, the pandemic (surprise!) and our handling of it, vaccination, some necessary “debunks”, schools and education, a little on our economy, and most importantly, a little of our modern history. As a bonus, the book also talks about some basic technology and online safety."
+image : "images/2021/cover.png"
+buy : https://amzn.to/3ro1Ugw
+navButton :
+  enable : true
+banner :
   enable : true
   writer : "Ram Iyer"
-  title : "unpolarised in 2021"
-  image : "images/about/book.png"
-  content : "Unpolarised through the second wave, fads and narrative battles. With an apolitical view on farming and food, the pandemic (surprise!) and our handling of it, vaccination, some necessary “debunks”, schools and education, a little on our economy, and most importantly, a little of our modern history. As a bonus, the book also talks about some basic technology and online safety."
   price : "69.00"
   currency : "₹"
   label: "Buy on Amazon"
-  url: https://amzn.to/3ro1Ugw
 
 ######################## Book Preview ##########################
 preview:
   enable : true
   pagePreview:
     # page preview loop
-    - image : "images/about/preview/book-preview-001.png"
-    - image : "images/about/preview/book-preview-009.png"
-    - image : "images/about/preview/book-preview-012.png"
-    - image : "images/about/preview/book-preview-014.png"
-    - image : "images/about/preview/book-preview-018.png"
-    - image : "images/about/preview/book-preview-020.png"
+    - image : "images/2021/preview/book-preview-001.png"
+    - image : "images/2021/preview/book-preview-009.png"
+    - image : "images/2021/preview/book-preview-012.png"
+    - image : "images/2021/preview/book-preview-014.png"
+    - image : "images/2021/preview/book-preview-018.png"
+    - image : "images/2021/preview/book-preview-020.png"
     
   title : "Look Inside the book"
   content : |
@@ -171,7 +171,7 @@ devices:
   enable : true
   title : "Read it on your favourite device!"
   content : "This book is optimised for digital platforms. Exclusively available on Kindle for now, it will be released on other platforms as well. Regardless, Kindle is accessible on your favourite device."
-  image : "images/about/ipad.png"
+  image : "images/2021/ipad.png"
   feature:
     # feature item loop
     - title : "Rich data, plus references"
@@ -193,14 +193,10 @@ devices:
 ######################################## author #############################
 author:
   enable : false
-  image : "images/about/home-1.jpg"
-  name : "Yasin Arafat"
-  designation : "A technical Writer"
-  content : "
-  Do you want to be even more successful? Learn to love learn and growth. The more efort you put into improving your skills, the bigger the payoff you will get.
-
-
-  It is a long established fact that a reader will be distracted by the readable content of a page when looking at its layout."
+  image : "images/about/author.jpg"
+  name : "Ram Iyer"
+  designation : "Writer, Automation Engineer"
+  content : "Ram Iyer is a mainstream IT automation engineer by profession, who lives in Bangalore (India), doing the usual cool stuff such as punching away at the keyboard on weekdays. He's also a cartographer, research scientist, photographer and explorer in his dreams at night. Ram reads psychology, and loves cycling. He writes for pleasure mainly on http://blog.ramiyer.me. Follow him on Twitter at https://twitter.com/iamramiyer."
 
   # signature
   signature : "images/about/2.png"
