@@ -65,6 +65,8 @@ author = "Ram Iyer"
 googleAnalitycsID = "G-RPK8JZJTT4" # Your ID
 # copyright
 copyright = "Copyright &copy; 2021 [Ram Iyer](https://ramiyer.me/) All Rights Reserved"
+# Microsoft Clarity
+microsoftClarityId = "ae6xz11g11"
 
 # Preloader
 [params.preloader]
