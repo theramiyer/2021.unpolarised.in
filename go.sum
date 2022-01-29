@@ -14,3 +14,5 @@ github.com/studiolampblack/influencer v0.0.0-20220129060805-ca7e86dc6e89 h1:SoxP
 github.com/studiolampblack/influencer v0.0.0-20220129060805-ca7e86dc6e89/go.mod h1:xX5PAvBh7mjaFweVzCstdeml1vyU7u50tln5SzlRX5c=
 github.com/studiolampblack/influencer v0.0.0-20220129061554-7af74ddd40d9 h1:/EPneEZ+d6r/CMJ8brw6qblftc7hzbgzeaNDmWwhFzg=
 github.com/studiolampblack/influencer v0.0.0-20220129061554-7af74ddd40d9/go.mod h1:xX5PAvBh7mjaFweVzCstdeml1vyU7u50tln5SzlRX5c=
+github.com/studiolampblack/influencer v0.0.0-20220129070829-688f8885307b h1:MLhZExJ2+0FEz9qP2qkaikTjiPSugdiuASsVNAPZVrU=
+github.com/studiolampblack/influencer v0.0.0-20220129070829-688f8885307b/go.mod h1:xX5PAvBh7mjaFweVzCstdeml1vyU7u50tln5SzlRX5c=
