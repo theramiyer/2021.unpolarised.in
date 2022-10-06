@@ -4,7 +4,7 @@ title : "unpolarised in 2021"
 url : '/2021/'
 description : "Unpolarised through the second wave, fads and narrative battles. With an apolitical view on farming and food, the pandemic (surprise!) and our handling of it, vaccination, some necessary “debunks”, schools and education, a little on our economy, and most importantly, a little of our modern history. As a bonus, the book also talks about some basic technology and online safety."
 image : "images/2021/cover.png"
-buy : https://amzn.to/3ro1Ugw
+buy : https://amzn.to/3Vbm6QM
 navButton :
   enable : true
 banner :
